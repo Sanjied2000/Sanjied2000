@@ -1,9 +1,5 @@
 ### Hi there 👋, my name is Sanjied
 #### I am a Student of Computer Science
-![I am a Student of Computer Science]
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: C++/Java/C#/ HTML / CSS
 
 - 🌱 I’m currently learning 2D-3D game Development in Unity  
